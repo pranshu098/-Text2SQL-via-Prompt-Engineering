@@ -1,5 +1,5 @@
-# -Text2SQL-via-Prompt-Engineering
-Text-to-SQL: Bridging the Gap Between Human Language and Databases   
+# -Text2SQL-via-Prompt-Engineering (LLM)
+Text-to-SQL: Bridging the Gap Between Human Language and Databases  
 <img width="701" height="473" alt="Screenshot 2026-05-11 at 8 17 34 AM" src="https://github.com/user-attachments/assets/24081894-4ddf-4a3b-ae1c-ed13c6f4ec81" />
 
 ## How It Works: From a Simple Question to a Complex Query
